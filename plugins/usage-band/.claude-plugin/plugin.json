@@ -1,0 +1,1 @@
+{ "name": "usage-band", "version": "0.1.0", "description": "Affiche l'utilisation restante (5 h et 7 jours) au-dessus de la zone de saisie", "types": "./types/index.d.ts" }

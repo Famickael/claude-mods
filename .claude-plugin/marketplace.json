@@ -1,0 +1,11 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "Famickael" },
+  "plugins": [
+    {
+      "name": "usage-band",
+      "source": "./plugins/usage-band",
+      "description": "Affiche l'utilisation restante (5 h et 7 jours) au-dessus de la zone de saisie"
+    }
+  ]
+}
